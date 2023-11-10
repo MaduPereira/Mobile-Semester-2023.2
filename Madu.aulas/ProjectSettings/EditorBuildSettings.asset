@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Multiplayer/Aula 09.10/New Scene.unity
+    guid: ad46ff05e50fefb41833a8e5638ace49
+  - enabled: 1
+    path: Assets/Multiplayer/Aula 09.10/Game.unity
+    guid: d4cc2f5ec4ef56e49b52a7a1737040f9
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 63bff44c4cd6d8a49bcc1a2676454649, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: c16b5235de0a72941aa6ddcbd26c6b06, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: c0ff5230d1ad35945870fc444af29563, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 8164b938c689c4c4caa78bf0407de8a8, type: 2}
