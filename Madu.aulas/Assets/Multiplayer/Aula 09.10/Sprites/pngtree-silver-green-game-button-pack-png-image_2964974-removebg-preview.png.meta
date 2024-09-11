@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: ab2417a9bf7ca284aaf4ef4e65c5b33c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 282
+        width: 144
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918160d933bf8a04891deaee6f983eab
+      internalID: 1819717208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 170
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294302e33a431964e9cc89d5c4d831b3
+      internalID: 938501859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e788a2048bd147a29b4cc45c5392a
+      internalID: 1792315534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 216
+        width: 139
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbac0a283c1d27409b99e6002b02e71
+      internalID: 1386922104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 150
+        width: 144
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b5130ac57f92343ac1a44258c7bbe0
+      internalID: -132930041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aade7ef1dca86c44a66db8abdefd72b
+      internalID: 341283322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27709778e854134f9c29f3d8419ced2
+      internalID: 1133039170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 84
+        width: 139
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa120b018b7ec184591be8d663c75055
+      internalID: -1219873107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 125
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34701ce87b824cd4a84c37c374bdfb0c
+      internalID: -1970300011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1c5b4a2e27f14798d2b37a4c042e8
+      internalID: -1562580313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc08a15b452509447aad64234ba3a8db
+      internalID: 1000098408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 84
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6656167023cc9a4ab4881d2609abd26
+      internalID: 709358360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 10
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ba8d4389c8e3a4584f4fa2de53b05c
+      internalID: 806552200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 139
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357109db4953e824f8193ddfc1e90d2c
+      internalID: 1972199732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 49
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dcf1f7058cd0c4cbf33224cee0e794
+      internalID: -2064974690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_0: 1819717208
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_1: 938501859
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_10: 1000098408
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_11: 709358360
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_12: 806552200
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_13: 1972199732
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_14: -2064974690
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_2: 1792315534
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_3: 1386922104
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_4: -132930041
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_5: 341283322
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_6: 1133039170
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_7: -1219873107
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_8: -1970300011
+      pngtree-silver-green-game-button-pack-png-image_2964974-removebg-preview_9: -1562580313
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

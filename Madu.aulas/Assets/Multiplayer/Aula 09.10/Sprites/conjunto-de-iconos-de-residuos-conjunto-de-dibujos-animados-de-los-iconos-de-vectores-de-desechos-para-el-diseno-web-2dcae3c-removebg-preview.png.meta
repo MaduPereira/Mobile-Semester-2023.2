@@ -1,0 +1,2555 @@
+fileFormatVersion: 2
+guid: 8aec693e679be70428d4dd836262a9f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95c6dbc4e6db104485e9c18c66b3e24
+      internalID: -1544419787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 403
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3aca418ff1ed84a9827d0a0cf1f296
+      internalID: 1098902523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 404
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89094257ea4c0a64692818901dc5d28f
+      internalID: -1342758599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 402
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a6b86d62dd50242b5fef2731e5dab0
+      internalID: 974838506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 402
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d87898de686c46a364235dc8afe5d
+      internalID: 711828019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 402
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eef0a559242194d869b3e63fefd4b0
+      internalID: 2117507126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 402
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7c1a3ce5a6664d908777f27272ad4
+      internalID: 1396807176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 402
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb1af9e348bbd4ab16703296b4cded
+      internalID: -123435799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 402
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc4375bb434a554dbfaafbf8028d7d1
+      internalID: 331618249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 402
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f4e1668176b8648a5439790afd7859
+      internalID: -2094810338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 402
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2b5bbd24fbf9149947be3b33e6624d
+      internalID: -233765422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 404
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788f424614480cc49b226aa2dff646b9
+      internalID: 364317842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 402
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1103371f36e1e4a9742c5047d3cd5b
+      internalID: -1485900079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e122ecc0272146bea8850331d7a2a
+      internalID: -758338493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 342
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296dd789a20a30e4593d7c0f4495f34b
+      internalID: -496254187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 342
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1904a01dfb0ff647870448d6ea49d9d
+      internalID: -1347229125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 343
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0ec9a663fea740afdff71868bac14
+      internalID: 2070325809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 344
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c05d32949721a48941a11551b7114d
+      internalID: 758696653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 344
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f526fb4ef5193e4d824dd71f7654700
+      internalID: 1799831603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 343
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4fde7200411cb4ea9bdd699d35f174
+      internalID: 1776845138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 342
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89874e0dbfda5d48817190a7f526b6a
+      internalID: -509849631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 342
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17f5bf0159438459fb844c14f77e78
+      internalID: 99162402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 344
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2335698c5a33740bc0a0adff35ca5c
+      internalID: -1313976581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 342
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a42eeb946d7948bad0284af1598ad
+      internalID: 1207406717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 343
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b660c179fd51c264b9709fced9665dcd
+      internalID: 1997126130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 343
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d854bffaa1aca439b4eb76c0904224
+      internalID: 1140278829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 343
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fcd46416e3d7041b7e3b6fbce44062
+      internalID: -1454221179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4076eee1c23f384d9de02d2787068df
+      internalID: -1431238055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 291
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20949a9d9758244ca40b63788c3b0b9
+      internalID: 1014973199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 290
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d855019d8ae371b4abf467504ffc0f9d
+      internalID: 1880637887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 290
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3006127ac6ab7d548ba486893423541c
+      internalID: 79513800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 291
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ee2c619f78684d91a0f1a1b574380
+      internalID: -1430416525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2edccdd86676694eaacffff2c83d0a6
+      internalID: -163843906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 290
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568f6000befbcb44d935cffc0c283c4d
+      internalID: -1586151533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 288
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d0b7cf8ddf44042a8a9feabab63b51
+      internalID: -585816138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 290
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523923c502e1dc4eb247f495b7a0a8f
+      internalID: -1831503681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 288
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb1a7538eec4264aa3266e16d574a8f
+      internalID: 539521833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e264b2c23b3643b25bfec045575e0
+      internalID: 1763191702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 288
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab0b4660d94ef74886e0b5409a48d50
+      internalID: 559336906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 288
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d757220ae3b5ca4c8de49777ecca8db
+      internalID: 1755805828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 291
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f06d285010584747b0d259dddc63e95
+      internalID: -459849323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f367ef7c234fc0545a80c0b76a7e3767
+      internalID: -1474457554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 288
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508268f7b4a1f4642b47a8a342cbb397
+      internalID: -1182581804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 283
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a460a5daabf69c746bb26ec56791e316
+      internalID: 1707004576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79af654824b8537498b2da4fe22fa851
+      internalID: -892187006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 228
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1739a3420f6a89e4ab1668d975b3db7e
+      internalID: -680454176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 228
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1d6883eb4b569448803a8533d38d00
+      internalID: -1702981184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 230
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1efb74b0ac634d94b910b6156fdff
+      internalID: -809855694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 230
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b55e3a424dba9646b5601b07c255e12
+      internalID: 2061721760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 230
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46e83616bcb604299a1c6d9c5d888a
+      internalID: -372914297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 228
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bdc42b06e406d4eaabfe14b0b5f936
+      internalID: -1403378650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 229
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a18c85874eee74b8c266a790ac41ff
+      internalID: -207131866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 230
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fd9e4238d6b24badcb2e183a18c93
+      internalID: -806985054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 229
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33f79954db8be342b679fff04bf5175
+      internalID: 1328737004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 228
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9c16e91ca360446a99f27f631d7e6c
+      internalID: -555064075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 231
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba656e9a257d784facd4189970f0119
+      internalID: -1318748769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 228
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d422c1c04aee32d4ba3087ad0b1c1fb8
+      internalID: 1932991722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 231
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb80bb9df51387f419e15c50495f26e6
+      internalID: 748751354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 228
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9e08e4e92c6e04e9a2ed906a87afef
+      internalID: 1736710538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eee531154e49f84588bc85ac1fc87f2
+      internalID: 1597324798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 162
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebbda99172d096448e8c7262accc57d
+      internalID: -2024762586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 162
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44528f7f286993d4ba7e05b58b0b6839
+      internalID: 1160671465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 162
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc777032d49bf645a3dd48990ad4f7f
+      internalID: 1644282762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 162
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc858b62bb959d46a646b3e3b02cab6
+      internalID: -217357141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 162
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe988d4c6d77fb645877e911b8e38688
+      internalID: 1346271983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 162
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f329e4010e5947adfbf32d6778b7a
+      internalID: -553568339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 162
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d0d1128774f7844b4208811a27b8a6
+      internalID: -1574977937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 162
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a87c1f5e4e42346826931bf2c53d4c
+      internalID: -1956931710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 186
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38761b50cb6d84a83dfc171c95e7ee
+      internalID: 1429163002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 156
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fde88e2abfc864abb089a59d7b0afc
+      internalID: -783452290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 162
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228542b9760164548937a48b009daa7a
+      internalID: -347616979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 162
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c28a5a2c62c74f9b25c7d5bac3597
+      internalID: -817303546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 162
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bbe94079dbc41408ec25f176cc9cd3
+      internalID: -112280650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 162
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e5f8d2831124f42b2fa0311a3441be
+      internalID: 1177027309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb7457988377994da0b8d7aaeefc722
+      internalID: 1261417090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 96
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30fbbb6655fd1948b27360e4206a86b
+      internalID: 690998881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 96
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c26d65208bb824f86593bdec608160
+      internalID: -1422862508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 98
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382171c7a11b14949a31a16010d044e7
+      internalID: 1098537585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 96
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309cccf8ed1956b40a9b49aa49592e6f
+      internalID: -1708676011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 97
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dd7761c80268944b117a6e180f43cd
+      internalID: -1142198868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c9529b8e8db84e9cd05bc23914e47
+      internalID: 1395467305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 96
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032889ff204c81542b2ebdaf0c771250
+      internalID: -1980648488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 98
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ca2d97ed139d4fb725989d5b5057e
+      internalID: 1434889361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 90
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4036dfb5d483c4caa9de33ecf9ac91
+      internalID: -545887339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 97
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c2c2cda93564842a54b2058bdc1b3b
+      internalID: -351533403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 98
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2957df7a6a9e73e48add4471a9d1ff1a
+      internalID: -97268482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 98
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894f7bd73eedf3c44a0c2f1536bfad23
+      internalID: -1791608676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69afd78680359445b60db22183816c8
+      internalID: -281754497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc396540f241749b41cd5abf41975c
+      internalID: 1330302002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 36
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d63104c5540a7409bc9c5300d12ef0
+      internalID: 600949734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 36
+        width: 76
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b2c43d4224b1744abfd72da79a249c
+      internalID: -400086822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 39
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef24eef171b4554688894fdf7374d03
+      internalID: -1399680445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 39
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f60b4cc8ee26c649a2b90aa0571bf1c
+      internalID: -387227935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 36
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6be0ba141ccd4c87f7cb955916ded
+      internalID: -1409276292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 39
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa3d2b88c40b0b44951cf04c5482d74
+      internalID: 1197001185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 39
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6ce5b18e3fb1943a7384042c9ffd71
+      internalID: 1730287953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 36
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d1cbb250d5cb24abdb89235a4f30b0
+      internalID: -1734907859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 39
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e23b6f8277148e43a8742cadde6670d
+      internalID: -718076696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 36
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b4aa1924ecef4c806031df478d7f2
+      internalID: 2016693536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 39
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6efadab83315ba40ab4caaff901c5dc
+      internalID: -1384444837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 6
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49eb1777cb73b1428b1f9cfbe799bba
+      internalID: 966121484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b1568a79bfb434fbced6eb13a51663
+      internalID: 571895182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75d381a5b7a874f9013be7fc072213
+      internalID: -1321867638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 16
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992fc7d368c195842b85d8b64ef4529b
+      internalID: 870958261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0e66adf83ccb64e9a9afc6fa38a107
+      internalID: 1735316488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 18
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8d754a4007de749a1c29224e8f8b74
+      internalID: -1740110778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 12
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6051802effaebb94d8a9b0d2db75b591
+      internalID: 732216205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 17
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a646edcd017fa42831dba735daa377
+      internalID: 1905143501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65535f883d862f49a7c99adfc516fa4
+      internalID: -486090122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a50728792e7974cae42d1eb3b65f52
+      internalID: 1866314371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_0: -1544419787
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_1: 1098902523
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_10: -233765422
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_100: 966121484
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_101: 571895182
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_102: -1321867638
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_103: 870958261
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_104: 1735316488
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_105: -1740110778
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_106: 732216205
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_107: 1905143501
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_108: -486090122
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_109: 1866314371
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_11: 364317842
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_12: -1485900079
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_13: -758338493
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_14: -496254187
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_15: -1347229125
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_16: 2070325809
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_17: 758696653
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_18: 1799831603
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_19: 1776845138
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_2: -1342758599
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_20: -509849631
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_21: 99162402
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_22: -1313976581
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_23: 1207406717
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_24: 1997126130
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_25: 1140278829
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_26: -1454221179
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_27: -1431238055
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_28: 1014973199
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_29: 1880637887
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_3: 974838506
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_30: 79513800
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_31: -1430416525
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_32: -163843906
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_33: -1586151533
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_34: -585816138
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_35: -1831503681
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_36: 539521833
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_37: 1763191702
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_38: 559336906
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_39: 1755805828
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_4: 711828019
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_40: -459849323
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_41: -1474457554
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_42: -1182581804
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_43: 1707004576
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_44: -892187006
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_45: -680454176
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_46: -1702981184
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_47: -809855694
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_48: 2061721760
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_49: -372914297
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_5: 2117507126
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_50: -1403378650
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_51: -207131866
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_52: -806985054
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_53: 1328737004
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_54: -555064075
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_55: -1318748769
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_56: 1932991722
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_57: 748751354
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_58: 1736710538
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_59: 1597324798
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_6: 1396807176
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_60: -2024762586
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_61: 1160671465
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_62: 1644282762
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_63: -217357141
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_64: 1346271983
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_65: -553568339
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_66: -1574977937
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_67: -1956931710
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_68: 1429163002
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_69: -783452290
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_7: -123435799
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_70: -347616979
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_71: -817303546
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_72: -112280650
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_73: 1177027309
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_74: 1261417090
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_75: 690998881
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_76: -1422862508
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_77: 1098537585
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_78: -1708676011
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_79: -1142198868
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_8: 331618249
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_80: 1395467305
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_81: -1980648488
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_82: 1434889361
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_83: -545887339
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_84: -351533403
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_85: -97268482
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_86: -1791608676
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_87: -281754497
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_88: 1330302002
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_89: 600949734
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_9: -2094810338
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_90: -400086822
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_91: -1399680445
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_92: -387227935
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_93: -1409276292
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_94: 1197001185
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_95: 1730287953
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_96: -1734907859
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_97: -718076696
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_98: 2016693536
+      conjunto-de-iconos-de-residuos-conjunto-de-dibujos-animados-de-los-iconos-de-vectores-de-desechos-para-el-diseno-web-2dcae3c-removebg-preview_99: -1384444837
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

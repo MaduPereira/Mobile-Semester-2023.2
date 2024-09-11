@@ -1,0 +1,1653 @@
+fileFormatVersion: 2
+guid: 187e7df44fc8b634daaf06166990050e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd880b1b5c46e064b83d4e751b88a63e
+      internalID: 1449492384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_1"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 433
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1a3459eae9a2f43b0b7f5f5de08d56
+      internalID: 94601968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_2"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 437
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee67257d8dc4146a0c6a03cf28125c
+      internalID: -1551026167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_3"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 439
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846b9db5c4d747643ae38555000e0bb2
+      internalID: -107759541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_4"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 414
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4a6fd91b730ac43aaa60acb253b102
+      internalID: 1339942811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_5"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 375
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29279baf67f7d2142b369280f7bb1aea
+      internalID: -981180871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_6"
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 414
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9bf58c39d85c14e8d42859f17892a8
+      internalID: -443803945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_7"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 342
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6399fb6ee6984eb781fa7aea63c4a
+      internalID: 840538286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_8"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 410
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae1027443cfd64191b6455a5ea665d
+      internalID: 1247634649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_9"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 408
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e7be6cddff9a749976fca86d821c4a
+      internalID: -796181261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_10"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 354
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d54cdd2d831e4a4795ac600e0dbe0a2
+      internalID: -1522970755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_11"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 423
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcedf6934f48f84b873d461337c3515
+      internalID: 1127203799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_12"
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 429
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134f42429df8364299bc88a07202924
+      internalID: -597681428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_13"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 433
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988fb1981bb71f44bb98937e82a3b4aa
+      internalID: 1796344747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_14"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 427
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f878b476343b32489cf83f0883dd637
+      internalID: 2089047301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_15"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 354
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621cd96aa11c76a45a89532b4829250e
+      internalID: -267195959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_16"
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 413
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295c0ce332090014d832eabe505b66ad
+      internalID: 366393693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_17"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 404
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f73021f7418134c8f584a700d3041c
+      internalID: 1777199030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_18"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 358
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d63d0cdf9ce5448ac58a59db0f5298
+      internalID: 1184411884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_19"
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 390
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61647de8a1692684f8bef9064622afb0
+      internalID: 82777755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93cd477fc80a746b144e5700fa4f2f
+      internalID: -563334403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_21"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 336
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aef847127f3364e8aa179588b7e262
+      internalID: 171860026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_22"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 324
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14217b6341eb2f64b947b274a42b520a
+      internalID: 828776652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_23"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 330
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda31311bda4a7348a5ae656308e05a2
+      internalID: 2056441284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_24"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 300
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f848b065680b644d9de2e26892a9fa8
+      internalID: -234089876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_25"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 290
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab64a27dde5368b4295c3dfa7d33c7f9
+      internalID: -1637064102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_26"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 246
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c477f06322e6a394e8d923da08c019d2
+      internalID: -266127416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_27"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 219
+        width: 114
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2609a9fd1f051964ba6305af7935f0b4
+      internalID: -1831488573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_28"
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 276
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5392fb30c0f18499c6d04684ff2554
+      internalID: -1950267566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_29"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71417b0d65d3926428d3a2c320b60973
+      internalID: -2025200227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_30"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 210
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f4de8d682c71f4989580dd73caf2de
+      internalID: -813862648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_31"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 281
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475741a84f1113447988e25101f077ee
+      internalID: -1520847861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_32"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 282
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e700a96190a2344ac3fe594f3699f0
+      internalID: -1057812422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_33"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 214
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068b0fb568d744b4d86a059bac822741
+      internalID: 1566022925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_34"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 216
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c6073f2ee71b44ab2cb7f5b55f61a
+      internalID: 1957792358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_35"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 198
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab408a907bf4c33458b415f890cbfc22
+      internalID: 1850448189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_36"
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 238
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a915f5dbe7d14986df6423f8a0e50
+      internalID: -1773839452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_37"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55927c00a4153fe41a13f42d3b884b5b
+      internalID: 971310421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_38"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 168
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd47a88f680e9f4e91f541f21bb2704
+      internalID: 1447969206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_39"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 171
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878bfd3594093c54a96a9d8c6f1cbae7
+      internalID: 319833645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_40"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 214
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87346702c6cde445a5b489e1fa4a545
+      internalID: 1182825779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_41"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 162
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dc79eb663d22d49a614daf5ef0e1e7
+      internalID: 62658807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_42"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 210
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974899609927574799600d5933862c1
+      internalID: 1165260966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_43"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 204
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd28b88656cba4d90c62250032d464
+      internalID: 150881836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_44"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 212
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe828103a3e08d4e9fa4d6ec11a116e
+      internalID: 1231167446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_45"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 131
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fd971c7b22d9947a5ba0a0dd9d0d15
+      internalID: 988176290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_46"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 204
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c9708208a6d6848a50aae86f86856e
+      internalID: 533697833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_47"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 204
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b0af16564c2684ea355d55861ce387
+      internalID: -294636493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_48"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 198
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ce0f851a34ee43a8256340b6a1c51
+      internalID: -989708818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_49"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 126
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0538c47abf5424e878bdc32ec47c02
+      internalID: 1241059685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_50"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 24
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288da8b6f2ae0b340bc5c509a6fb806a
+      internalID: -127606809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_51"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be9de6e91992d41b18ce651b513d27
+      internalID: -520636944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_52"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 131
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f12a649162a3a4ba841cd846b21bc0
+      internalID: 36143951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_53"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 29
+        width: 133
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a159aad4f0ae81469a454e92281d2f9
+      internalID: 1134802479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_54"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 115
+        width: 120
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f7cc8c731c0f44b3b6325ebded257
+      internalID: -1453210620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_55"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 114
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa1c490e8e04d5469b57f12907ba4d9
+      internalID: -259740668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_56"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba0fb6928148ba4e859cb06ec443d64
+      internalID: 1590086961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_57"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 126
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d110e78d5fccc0479edd73bdcce7703
+      internalID: -1848499034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_58"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 131
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c25ee6f19fd114ea305998baed2fa3
+      internalID: 278533256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_59"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6742003096a3c6848969508bdd4b7dd1
+      internalID: -1622063798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_60"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e0a4a21395a29489f2cff617f6f372
+      internalID: 687078370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_61"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 106
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f591483a0f9bfc44cbe61eddf5ea0429
+      internalID: -1223510048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_62"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 102
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139abe5da54b5ef42a8c193da44d0d33
+      internalID: 833524815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_63"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 84
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf1538e506a934bb7ffa54f72217bc
+      internalID: -261460940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_64"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 24
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3773c569c254a5a40a981e03d77b4bf1
+      internalID: -459901842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_65"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 99
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d9fef3aa87d742954a6a1dbbe3469
+      internalID: 167636310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_66"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 90
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5c1618cf4c21849933801c0b411142
+      internalID: 1761495911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_67"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 90
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b121f167cf8e24c91e22189741cabb
+      internalID: 1190550457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_68"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 29
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d28445a18f5fc499f64771498f4c89
+      internalID: 1900984618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_0": 1449492384
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_1": 94601968
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_10": -1522970755
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_11": 1127203799
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_12": -597681428
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_13": 1796344747
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_14": 2089047301
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_15": -267195959
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_16": 366393693
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_17": 1777199030
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_18": 1184411884
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_19": 82777755
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_2": -1551026167
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_20": -563334403
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_21": 171860026
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_22": 828776652
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_23": 2056441284
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_24": -234089876
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_25": -1637064102
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_26": -266127416
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_27": -1831488573
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_28": -1950267566
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_29": -2025200227
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_3": -107759541
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_30": -813862648
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_31": -1520847861
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_32": -1057812422
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_33": 1566022925
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_34": 1957792358
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_35": 1850448189
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_36": -1773839452
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_37": 971310421
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_38": 1447969206
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_39": 319833645
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_4": 1339942811
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_40": 1182825779
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_41": 62658807
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_42": 1165260966
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_43": 150881836
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_44": 1231167446
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_45": 988176290
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_46": 533697833
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_47": -294636493
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_48": -989708818
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_49": 1241059685
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_5": -981180871
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_50": -127606809
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_51": -520636944
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_52": 36143951
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_53": 1134802479
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_54": -1453210620
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_55": -259740668
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_56": 1590086961
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_57": -1848499034
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_58": 278533256
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_59": -1622063798
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_6": -443803945
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_60": 687078370
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_61": -1223510048
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_62": 833524815
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_63": -261460940
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_64": -459901842
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_65": 167636310
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_66": 1761495911
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_67": 1190550457
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_68": 1900984618
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_7": 840538286
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_8": 1247634649
+      "86086734-dibujos-animados-basura-y-basura-iconos-de-color-set-ecolog\xEDa-reciclaje-concepto-plano-dise\xF1o-de-removebg-preview_9": -796181261
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
